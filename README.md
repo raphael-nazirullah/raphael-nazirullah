@@ -1,8 +1,8 @@
 # Hi there 👋
 I'm a software engineer based in Pakistan. I've been working as a fullstack developer for the past 4 years (frontend heavy).
-After working for more than 2 years for a US startup, I'm currently on a career break, focusing on personal & professional development.
+I'm currently on a career break, focusing on personal & professional development (the last company I worked at was [Vartana](https://vartana.com/) where I worked for 2+ years).
 
-Hit me up if you'd like to collaborate on any project (especially open-source projects. (Email: raphael.nazirullah@gmail.com)
+Hit me up if you'd like to collaborate on any project (especially open-source projects.
 
 ## Languages & Tech I've worked in
 ### Frontend Tech
