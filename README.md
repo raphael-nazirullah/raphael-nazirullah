@@ -22,7 +22,9 @@ Hit me up if you'd like to collaborate on any project (especially open-source pr
 - I'm a socially active introvert but people who know me don't agree that I'm an introvert 😏
 - I enjoy reading books 📘. I used to be a nerd in my educational life 🤓
 
+<!--
 ## LeetCode Stats
 (I like Hacker Rank more 😒)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/raphael_nazirullah?ext=heatmap&animation=false)](https://leetcode.com/raphael_nazirullah)
+-->
