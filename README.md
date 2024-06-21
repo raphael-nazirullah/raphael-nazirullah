@@ -1,8 +1,8 @@
 # Hi there 👋
 I'm a software engineer based in Pakistan. I've been working as a fullstack developer for the past 4 years (frontend heavy).
-I'm currently on a career break, focusing on personal & professional development (the last company I worked at was [Vartana](https://vartana.com/) where I worked for 2+ years).
+I'm currently on a **career break**, focusing on personal & professional development.
 
-Hit me up if you'd like to collaborate on any project (especially open-source projects.
+Hit me up if you'd like to collaborate on any project (especially open-source projects).
 
 ## Languages & Tech I've worked in
 ### Frontend Tech
