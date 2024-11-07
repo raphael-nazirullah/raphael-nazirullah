@@ -17,7 +17,7 @@ Hit me up if you'd like to collaborate on any project (especially open-source pr
 - Building personal projects
 
 ## Fun facts about me 🥴
-- I'm a socially active introvert but people who know me don't agree that I'm an introvert 😏
+- I'm a socially active introvert who was also a nerd in uni life (but people usually don't agree that I'm an introvert 😏)
 - I run a Silent Book Club in my city. Check it out: 👉 https://www.instagram.com/silentbookclub.lahore/
 
 <!--
