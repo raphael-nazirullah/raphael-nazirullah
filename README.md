@@ -3,6 +3,12 @@ I'm a software engineer based in Pakistan. I've been working as a fullstack deve
 Hit me up if you'd like to collaborate on any project (especially open-source projects).
 
 ## Languages & Tech I've worked in
+### Languages
+- Python & Ruby
+- JavaScript & TypeScript
+- Java
+- C++ & C#
+
 ### Frontend Tech
 [<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">](https://react.dev)
 [<img width="150" src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.0e3166482a69f6e0f869a048cf5c06bb695e2577.svg">](https://tailwindcss.com)
