@@ -18,7 +18,7 @@ Hit me up if you'd like to collaborate on any project (especially open-source pr
 
 ## Fun facts about me 🥴
 - I'm a socially active introvert but people who know me don't agree that I'm an introvert 😏
-- I enjoy reading books 📘. I used to be a nerd in my educational life 🤓
+- I run a Silent Book Club in my city. Check it out: 👉 https://www.instagram.com/silentbookclub.lahore/
 
 <!--
 ## LeetCode Stats
